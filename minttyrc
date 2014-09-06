@@ -5,3 +5,4 @@ Term=xterm-256color
 RightClickAction=paste
 CursorType=block
 Transparency=high
+FontHeight=12

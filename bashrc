@@ -18,11 +18,11 @@
 export LANG="en_US.UTF8"
 export OUTPUT_CHARSET="UTF8"
 
-JAVA_HOME=/java
-ECLIPSE_HOME=~/eclipse
-JETTY_HOME=/home/liukan/jetty-distribution-7.6.2.v20120308
-ANT_HOME=/home/liukan/apache-ant-1.8.3
-PATH="${PATH}:${ANT_HOME}/bin:${ECLIPSE_HOME}:${JAVA_HOME}/bin"
+#JAVA_HOME=/java
+#ECLIPSE_HOME=~/eclipse
+#JETTY_HOME=/home/liukan/jetty-distribution-7.6.2.v20120308
+#ANT_HOME=/home/liukan/apache-ant-1.8.3
+#PATH="${PATH}:${ANT_HOME}/bin:${ECLIPSE_HOME}:${JAVA_HOME}/bin"
 
 
 # If not running interactively, don't do anything
